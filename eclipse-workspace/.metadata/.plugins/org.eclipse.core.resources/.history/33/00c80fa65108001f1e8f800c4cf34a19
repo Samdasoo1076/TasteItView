@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.login {
+	position: absolute;
+	right: 50px;
+}

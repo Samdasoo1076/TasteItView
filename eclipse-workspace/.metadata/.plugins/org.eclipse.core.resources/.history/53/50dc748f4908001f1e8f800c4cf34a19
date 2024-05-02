@@ -1,0 +1,9 @@
+package db;
+
+public class MemberDao {
+
+		public String isMember(String id, String pw) {
+			String name = null;
+			String sql = "select name from member where id=? and pw=?"
+		}
+}

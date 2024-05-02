@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.Login {
+	position: absolute;
+	right: 50px;
+}

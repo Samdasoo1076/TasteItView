@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\ucomp\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\984202897.index
+\Taste\src\main\java
+C:\Users\ucomp\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2024880556.index
+\Taste\src\main\java
+C:\Users\ucomp\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1724602686.index
+\Taste\src\main\java

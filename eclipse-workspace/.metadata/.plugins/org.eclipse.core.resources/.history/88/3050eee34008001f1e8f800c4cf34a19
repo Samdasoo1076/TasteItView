@@ -1,0 +1,3 @@
+public class API_KEY {
+    public static final String KEY = "c5691f2dfa678062007c018fe0db503f"; // 여기에 실제 API 키를 넣어주세요.
+}

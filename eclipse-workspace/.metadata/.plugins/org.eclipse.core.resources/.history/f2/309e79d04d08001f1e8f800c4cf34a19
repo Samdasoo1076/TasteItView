@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+header {
+            background-color: #ffffff;
+            color: white;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+ 
+        .logo {
+            /* 로고 스타일 */
+            font-size: 40px;
+        }
+        
+        .logo a {
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
+ 
+        .navigation {
+            /* 내비게이션 스타일 */
+            display: flex;
+            gap: 20px;
+        }
+ 
+        .navigation input {
+           width: 700px;
+           padding: 20px;
+           border-radius: 50px;
+           border-color: grey;
+        }
+ 
+        .login-signup {
+            /* 로그인 및 회원가입 스타일 */
+            font-size: 16px;
+        }

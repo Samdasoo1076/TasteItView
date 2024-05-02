@@ -1,0 +1,8 @@
+package db;
+
+public class MemberDao {
+
+		public String isMember(String id, String pw) {
+			
+		}
+}
